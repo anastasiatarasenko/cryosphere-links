@@ -171,6 +171,7 @@ hydrology and glacier dynamics (paper)
 - [Icepack](https://github.com/CICE-Consortium/Icepack) - sea-ice column physics
 - [SIS2](https://github.com/NOAA-GFDL/SIS2) - NOAA-GFDL's Sea Ice Simulator version 2
 ### SI Data 
+- [Satellite SI drift, Ifremer](ftp://ftp.ifremer.fr/ifremer/cersat/products/gridded/psi-drift//data/arctic) - Sea ice drift from different satellites (ASCAT, AMSRE, AMSR2)
 
 ## Snow
 ### SN Software
